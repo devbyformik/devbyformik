@@ -1,16 +1,33 @@
-### Hi there 👋
+# formik
 
-<!--
-**devbyformik/devbyformik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programmer since 2020**
+- **15 yrs old**
+
+
+### Languages I use
+
+- **C++**
+- **Rust**
+- **Golang**
+- **Python**
+
+
+### Languages I'm learning
+
+- **Rust**
+- **C**
+
+### Languages I plan to learn
+
+- **Assembly**
+- **C#**
+- **Carbon**
+
+
+### What I'm working on
+
+- **[dutils - discord self bot](https://github.com/devbyformik/dutils)**
+- **spade - general purpose discord bot**
+
