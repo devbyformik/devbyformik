@@ -3,12 +3,13 @@
 
 
 - **Programmer since 2020**
-- **15 yrs old**
+- **16 yrs old**
 
 
 ### Languages I use
 
 - **C++**
+- **C**
 - **Rust**
 - **Golang**
 - **Python**
