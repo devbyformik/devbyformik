@@ -15,20 +15,20 @@
 - **Python**
 
 
-### Languages I'm learning
+### Languages I'm actively learning
 
 - **Rust**
 - **C**
+- **Golang**
 
 ### Languages I plan to learn
 
 - **Assembly**
-- **C#**
 - **Carbon**
 
 
 ### What I'm working on
 
 - **[dutils - discord self bot](https://github.com/devbyformik/dutils)**
-- **spade - general purpose discord bot**
+- **[spade - general purpose discord bot](https://github.com/devbyformik/maven)**
 
