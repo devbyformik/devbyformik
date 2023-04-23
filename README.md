@@ -30,5 +30,5 @@
 ### What I'm working on
 
 - **[dutils - discord self bot](https://github.com/devbyformik/dutils)**
-- **[spade - general purpose discord bot](https://github.com/devbyformik/maven)**
+- **[(PRIVATE REPO) maven - general purpose discord bot](https://github.com/devbyformik/maven)**
 
