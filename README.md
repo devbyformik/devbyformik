@@ -3,13 +3,13 @@
 
 
 - **Programmer since 2020**
-- **16 yrs old**
+- **18 yrs old**
 
 
-### Languages I use
+### Languages
 
-- **C++**
 - **C**
+- **C++**
 - **Rust**
 - **Golang**
 - **Python**
@@ -18,17 +18,11 @@
 ### Languages I'm actively learning
 
 - **Rust**
-- **C**
-- **Golang**
 
 ### Languages I plan to learn
 
 - **Assembly**
-- **Carbon**
+- **Zig**
 
 
-### What I'm working on
-
-- **[dutils - discord self bot](https://github.com/devbyformik/dutils)**
-- **[(PRIVATE REPO) maven - general purpose discord bot](https://github.com/devbyformik/maven)**
 
